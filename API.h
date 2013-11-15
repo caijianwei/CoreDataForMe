@@ -11,6 +11,7 @@
 #define ID @"id"
 #define TITLE  @"title"
 #define PHOTO_NAME @"ownername"
+#define MD @"changeMe"
 typedef enum {
 	FlickrPhotoFormatSquare = 1,
 	FlickrPhotoFormatLarge = 2,
