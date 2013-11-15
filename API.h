@@ -12,6 +12,7 @@
 #define TITLE  @"title"
 #define PHOTO_NAME @"ownername"
 #define MD @"changeMe"
+#define TOUCH @"onClick"
 typedef enum {
 	FlickrPhotoFormatSquare = 1,
 	FlickrPhotoFormatLarge = 2,
